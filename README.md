@@ -4,7 +4,7 @@ Arquivos da manografia de Trabalho de Conclusão de Curso 2, do discente Thalles
 
 Este TCC2 é resultado do processo de aproveitamento de estudos da publição do artigo [Arranjo Cliente Servidor para um Robô Industrial com Controladora Aberta](https://github.com/campagnani/Artigo-Open-SBAI), logo a manografia é uma expansão do artigo.
 
-Para visualizar a manografia acesse a [versão publicada no site do CEFET-MG](https://www.eng-mecatronica.divinopolis.cefetmg.br/tcc-2022).
+Para visualizar a manografia acesse a [versão publicada no site do CEFET-MG](https://www.eng-mecatronica.divinopolis.cefetmg.br/tccs-2022).
 
 Este TCC2 não é a continuação do TCC1, que pode ser encontrado [nesse reposítorio](https://github.com/campagnani/TCC_old) e o motivo pode ser lido no README.md do mesmo.
 
